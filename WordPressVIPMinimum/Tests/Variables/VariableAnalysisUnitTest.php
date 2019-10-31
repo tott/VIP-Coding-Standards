@@ -32,8 +32,8 @@ class VariableAnalysisUnitTest extends AbstractSniffUnitTest {
 	 */
 	public function getWarningList() {
 		return [
-			5  => 2,
-			18 => 2,
+			1 => 2,
+			4 => 1,
 		];
 	}
 
